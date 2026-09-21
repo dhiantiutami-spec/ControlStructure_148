@@ -9,4 +9,4 @@ elif nilai >= 70:
 elif nilai >= 60:
     print("avarage")
 else:
-    print("poor")
+    print("poor") 
